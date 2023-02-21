@@ -159,11 +159,11 @@ ol {
 	padding: 24px 30px;
 	border-radius: 0;
 	text-transform: uppercase;
-	color: #081624;
+	color: #ff00bf;
 	line-height: normal;
 	cursor: pointer;
 	text-align: center;
-	background: #fff;
+	background: #e484ec;
 	position: relative;
 	z-index: 1;
 }
@@ -192,7 +192,7 @@ ol {
 .site-btn:before {
 	left: 0;
 	top: 0;
-	background: #fff;
+	background: #000000;
 	z-index: -1;
 }
 
@@ -519,7 +519,7 @@ ol {
 
 .hero-item h2 {
 	font-size: 160px;
-	color: #fff;
+	color: #000000;
 	font-weight: 500;
 	line-height: 1;
 	position: relative;
@@ -529,7 +529,7 @@ ol {
 
 .hero-item p {
 	font-size: 24px;
-	color: rgba(255, 255, 255, 0.4);
+	color: rgb(0, 0, 0);
 	font-weight: 500;
 	opacity: 0.39;
 	margin-bottom: 70px;
