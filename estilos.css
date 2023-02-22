@@ -57,6 +57,7 @@ a {
   background: #ff83f5;
   padding: 20px 30px 20px 30px;
   color: white;
+  text-align: center;
  
 }
 
@@ -92,6 +93,8 @@ h3 {
 .contenedor-parrafo-y-boton {
   width: 29%;
   color: #fff;
+  display: flex;
+  text-align: center;
 }
 
 .contenedor-parrafo-y-boton p {
