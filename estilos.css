@@ -62,7 +62,7 @@ a {
 }
 
 header {
-  background: url(img/fondo.jfif);
+  background: url(img/fondo3.jpg);
   height: 100vh;
   background-size: cover;
 }
@@ -119,12 +119,12 @@ h3 {
   color: #fff;
 }
 
-.violeta {
-  background: #5055df;
+.violeta1 {
+ background-image: url(img/imagen12.jpg);
 }
 
-.celeste {
-  background: #40a8fa;
+.celeste1 {
+background-image: url(img/imagen11.jpg);
 }
 
 .servicio h4 {
